@@ -1,0 +1,25 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayGreycloud/node-web-scraper.git"
+  },
+  "author": "rayGreycloud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayGreycloud/node-web-scraper/issues"
+  },
+  "homepage": "https://github.com/rayGreycloud/node-web-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cli-table": "^0.3.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
